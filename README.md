@@ -1,2 +1,2 @@
 # TugasSemester4
--- format file : matkul_tugas_nama --
+-- format file : namaMatkul_namaTugas --
