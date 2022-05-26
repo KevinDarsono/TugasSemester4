@@ -1,0 +1,9 @@
+Fungsional
+
+- Mengupdate bundling produk
+- mengelola cluster produk
+- Mengelola layanan iklan
+
+Non Fungsional
+- Menandai cluster produk dengan flag
+- Memberi kategori iklan pada produk
